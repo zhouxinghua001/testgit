@@ -1,6 +1,6 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+<script 类型="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script 类型="text/x-mathjax-config">
+  MathJax.Hub。Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
 </script>
 # markdown练习  
 ^[toc]^  
@@ -30,12 +30,14 @@ $$\begin{aligned}
 ![Alt text](pic4.jpg)  
 ## 表格  
 ### 表格一  
+<center>
 |          参数           |  2011年  |  2014年  |  2017年  |  2020年  |
 | :---------------------: | :------: | :------: | :------: | :------: |
 | $Moran's\enspace I$指数 | 0.240678 | 0.105854 | 0.167725 | 0.178105 |
 |          方差           | 0.019395 | 0.013213 | 0.014829 | 0.011380 |
 |           $Z$           | 2.206897 | 1.500860 | 1.924824 | 2.94496  |
 |           $P$           | 0.027321 | 0.133392 | 0.054251 | 0.021762 |
+</center>
 ### 表格二（HTML）  
 <div style="text-align: center;">
     <font face="宋体">
